@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Atualmente, faço faculdade de Análise e desenvolvimento de sistemas</h2>
 <ul>
-  <th>Linguagens de estudo</th>
+  <th><h1>Linguagens de estudo</h1></th>
  <li>Javascript</li>
  <li>Kotlin</li>
  <li>Java</li>
