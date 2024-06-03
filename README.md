@@ -1,7 +1,14 @@
 <h1>Olá pessoal, eu sou o Isaque Gabriel ✌</h1>
 
 <h2>👨‍💻 Atualmente, faço faculdade de Análise e desenvolvimento de sistemas</h2>
-<h3>📚Estudo Javascript</h3>
+<ul>
+  <th>Linguagens de estudo</th>
+ <li>Javascript</li>
+ <li>Kotlin</li>
+ <li>Java</li>
+ <li>C#</li>
+</ul>
+
 <h3>📫Contate-me no email: isaqueeler1@gmail.com</h3>
  
 <div>
