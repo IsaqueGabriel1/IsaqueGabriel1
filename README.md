@@ -1,12 +1,20 @@
 <h1>Olá pessoal, eu sou o Isaque Gabriel ✌</h1>
-
-<h2>👨‍💻 Atualmente, faço faculdade de Análise e desenvolvimento de sistemas</h2>
+<h2>👨‍💻 Formado em Análise e Desenvolvimento de Sistemas</h2>
+<h5>Fatec São Caetano do Sul Antonio Russo</h5>
+<hr>
 <ul>
-  <th><h3>Linguagens de estudo</h3></th>
- <li>Javascript</li>
- <li>Kotlin</li>
- <li>Java</li>
- <li>C#</li>
+  <h3>Linguagens de estudo</h3>
+   <li>Java</li>
+   <li>Kotlin</li>
+   <li>C#</li>
+  <li>Javascript</li>
+</ul>
+
+<h2>Arquitetura de software</h2>
+<ul>
+  <li>Programação Orientada a Objeto => Kotlin, Java e C#</li>
+  <li>Programação Orientada a (Eventos) => {Javascript}</li>
+  <li>MVC Model, View, Controller => Java e C#</li>
 </ul>
 
 <h3>📫Contate-me no email: isaqueeler1@gmail.com</h3>
